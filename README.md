@@ -1,6 +1,25 @@
 # Assentamentos Precários no Brasil Urbano
 
-REpositório de desenvvolvimento metodológico para aplicação no Censo de 2022
+Repositório de desenvvolvimento metodológico para aplicação no Censo de 2022
+
+## Introdução
+
+O CEM produziu em 2007 um estudo para o Ministério das Cidades sobre Assentamentos Precários/Capacidades Administrativas, disponível em https://centrodametropole.fflch.usp.br/pt-br/downloads-de-dados/assentamentos-precarios. A [Metodologia de identificação de assentamentos precários urbanos](https://centrodametropole.fflch.usp.br/pt-br/downloads-de-dados/assentamentos-precarios-no-brasil-urbano-2014) está disponibilizada e pode ser reproduzida para outros municipios e regiões
+
+## Objetivo
+
+Portanto o objetivo desse repositório é desenvolver um método computacional de modo a:
+* Poder reproduzir esse método nos próximos Censos
+* Disseminar os métodos de desenvolvimento faciliando a sua reprodutibilidade
+* Ampliar o processamento para todos os municípios brasileiros
+
+## Método
+
+A partir dos métodos descritos anteriormente, iremos criar scripts e notebooks em Python de modo a automatizar todo o processo de cálculo, utilizando blibliotecas de código livre. 
+
+## REsultados
+
+Os resultados estão sendo processados e a medida que forem sendo produzidos estarão disponibilizados na pasta de resultados ou, a depender do tamanho dos arquivos em repositórios e sites indicados aqui.
 
 ## Referencias
 
