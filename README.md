@@ -17,7 +17,7 @@ Portanto o objetivo desse repositório é desenvolver um método computacional d
 
 A partir dos métodos descritos anteriormente, iremos criar scripts e notebooks em Python de modo a automatizar todo o processo de cálculo, utilizando blibliotecas de código livre. 
 
-## REsultados
+## Resultados
 
 Os resultados estão sendo processados e a medida que forem sendo produzidos estarão disponibilizados na pasta de resultados ou, a depender do tamanho dos arquivos em repositórios e sites indicados aqui.
 
