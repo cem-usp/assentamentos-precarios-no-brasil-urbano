@@ -1,1 +1,3 @@
 data/censo_2010/*.zip
+data/censo_2010/**/*.csv
+temp
