@@ -3,3 +3,4 @@ data/censo_2010/*.gpkg
 data/censo_2010/**/*.csv
 temp
 resultados/*.zip
+resultados/*.gpkg
