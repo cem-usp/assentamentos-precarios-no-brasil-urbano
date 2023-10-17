@@ -1,3 +1,7 @@
+data/censo_2000/*.zip
+data/censo_2000/*.gpkg
+data/censo_2000/**/*.XLS
+data/censo_2000/**/*.xls
 data/censo_2010/*.zip
 data/censo_2010/*.gpkg
 data/censo_2010/**/*.csv
