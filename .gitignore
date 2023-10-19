@@ -8,3 +8,4 @@ data/censo_2010/**/*.csv
 temp
 resultados/*.zip
 resultados/*.gpkg
+data/emplasa/*
